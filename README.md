@@ -8,7 +8,7 @@ npm install
 npm start
 ```
 
-## backend
+## Backend
 
 ```
 cd Backend
